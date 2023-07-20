@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>Cuántica</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Principal</a></li>
+	        	<li><a href="/about">Sobre</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Un saludo, navegante</h1>
+				<p>Por aquí escribiré sobre lo que me apetezca. En principio he creado esta página como una enciclopedia personal, así que 
+				habrá apuntes propios de asignaturas que considere relevantes para mí. 
+					<a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:manzanara@correo.ugr.es">email</a></li>
+        		<li><a href="https://github.com/manzanara">github.com/manzanara</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
